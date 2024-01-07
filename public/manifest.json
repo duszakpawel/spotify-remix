@@ -1,0 +1,18 @@
+{
+	"name": "Orange It Up!",
+	"description": "This extension is created for changing the background color of the page orange.",
+	"version": "1.0",
+	"manifest_version": 3,
+	"content_scripts": [
+        {
+            "matches": ["https://open.spotify.com/*"],
+            "js": ["contentScript.js"]
+        }
+    ],
+	"web_accessible_resources": [
+		{
+		  "resources": ["styles.css", "background.js"],
+		  "matches": ["https://open.spotify.com/*"]
+		}
+	]
+}
