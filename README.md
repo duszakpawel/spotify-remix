@@ -21,3 +21,7 @@ Features:
 1. npm run build
 2. navigate to chrome://extensions/
 3. load unpacked content of dist folder
+
+## Notes
+
+It may be possible to run it in Spotify's desktop app by using [Spicetify](https://github.com/spicetify/spicetify-cli), but for now there is an issue with finding the player element because of the way their extensions are loaded into Spotify.
