@@ -7,6 +7,12 @@ This is a Chrome Extension that allows user to manipulate Spotify's web playback
 
 ![Screenshot #1](playback.png)
 
+
+
+https://github.com/duszakpawel/spotify-remix/assets/17085237/dc6ef909-dad2-4a3a-bf15-4c37e1f92672
+
+
+
 Features:
 
  - set playback rate
