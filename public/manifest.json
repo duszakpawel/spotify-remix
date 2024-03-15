@@ -1,6 +1,6 @@
 {
-	"name": "Orange It Up!",
-	"description": "This extension is created for changing the background color of the page orange.",
+	"name": "Spotify Remix",
+	"description": "This extension is created for manipulating Spotify's audio player.",
 	"version": "1.0",
 	"manifest_version": 3,
 	"content_scripts": [
