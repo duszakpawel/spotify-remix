@@ -5,6 +5,8 @@ This project is a modified clone of [this repository](https://github.com/rnikko/
 
 This is a Chrome Extension that allows user to manipulate Spotify's web playback.
 
+![Screenshot #1](playback.png)
+
 Features:
 
  - set playback rate
