@@ -1,8 +1,6 @@
 
 # Spotify remix
 
-This project is a modified clone of [this repository](https://github.com/rnikko/spotify-playback-speed).
-
 This is a Chrome Extension that allows user to manipulate Spotify's web playback. I cleaned it up a little and added reverb (reverb impulse file can be changed in background.ts , for now I use a free bathroom reverb impulse from [there](https://cdn.freesound.org/previews/192/192294_3276562-lq.mp3)).
 
 ![Screenshot #1](playback.png)
